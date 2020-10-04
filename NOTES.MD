@@ -9,7 +9,9 @@
 ## 1. Awesome-CommandLine-Tools
 
 Presentation slides *./Awesome CommandLine Tools.pdf*
+
 *REPL --> Read, Eval, Print, Loop*
+
 *python package --> prompt_toolkit (creating a commandline tool)*
 
 https://github.com/prompt-toolkit/python-prompt-toolkit 
