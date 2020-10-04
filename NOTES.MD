@@ -58,11 +58,12 @@ https://github.com/gramener/comicgen/
 
 1. Detailed article on typing https://realpython.com/python-type-checking/ 
 
-Python annotations (type hints)
-the typing module --> https://docs.python.org/3/library/typing.html 
-mypy python module enforce static typing 
+- Python annotations (type hints)
+- the typing module --> https://docs.python.org/3/library/typing.html 
+- mypy python module enforce static typing 
 
 2. MonkeyType (MonkeyType collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your Python code based on the types collected at runtime.)
+
 https://github.com/Instagram/MonkeyType 
 
 
@@ -98,5 +99,5 @@ https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 https://hypothesis.readthedocs.io/en/latest/
 
 ### d. Renpy for making games(episodic)
-https://www.renpy.org/dev-doc/html/python.html
-https://krita.org/en/ --> *ART*
+- https://www.renpy.org/dev-doc/html/python.html
+- https://krita.org/en/ --> *ART*
