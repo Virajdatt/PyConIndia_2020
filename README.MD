@@ -101,5 +101,5 @@ https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 https://hypothesis.readthedocs.io/en/latest/
 
 ### d. Renpy for making games(episodic)
-https://www.renpy.org/dev-doc/html/python.html
-https://krita.org/en/ --> *ART*
+- https://www.renpy.org/dev-doc/html/python.html
+- https://krita.org/en/ --> *ART*
