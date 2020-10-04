@@ -1,11 +1,11 @@
 # This repo contains my quick notes from what I learnt new in the PyConIndia2020.
 
 - [Contents](#Contents)
-	* [Awesome-CommandLine-Tools](#Awesome-CommandLine-Tools)
-	* [How-to-make-data-apps-seem-faster](#How-to-make-data-apps-seem-faster)
-    * [Static-Typing-Python](#Static-Typing-Python)
-    * [Logging](#Logging)
-	* [Some-side-notes](#Some-side-notes)
+	* [Awesome-CommandLine-Tools](#1-awesome-commandline-tools)
+	* [How-to-make-data-apps-seem-faster](#2-how-to-make-data-apps-seem-faster)
+    * [Static-Typing-Python](#3-static-typing-python)
+    * [Logging](#4-logging)
+	* [Some-side-notes](#5-some-side-notes)
 
 
 ## 1. Awesome-CommandLine-Tools
